@@ -48,7 +48,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 |   Gear Slot   | Notes | Item | Enchant |
 | ------------- | ----- | ---- | ------- |
-| **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. |
+| **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. | - [Lesser Arcanum of Voracity (str)](https://classicdb.ch/?item=11645)<br>&ensp;- [Lesser Arcanum of Rapidity](https://classicdb.ch/?item=18329) |
 |               | *s/g* | [Eye of Rend](https://classicdb.ch/?item=12587)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
 |               | *s/g* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) |
 | **Neck**      | *BiS* | [Mark of Fordring](https://classicdb.ch/?item=15411)<br>&ensp;- Quest Reward: [In Dreams](https://classicdb.ch/?quest=5944) |
