@@ -29,7 +29,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | Pants     |
 | Boots     |
 | Rings     |
-| Trinket   | *BiS* | - [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br><t>- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br><t>- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
+| Trinket   | *BiS* | - [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
 
 - Head
 - Neck
