@@ -3,6 +3,7 @@
 Your BIS items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are palying on. Within each tier we will keep that information in mind and provide multiple options for vertain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual BiS piece.
 
 ### Notes Key
+| ------- | ---------------------|
 | *BiS*   | Indicates your optimal BiS piece. |
 | *s/g*   | Indicates a *stopgap* piece that is easier to obtain and will hold you over until you get your BiS. |
 | *p/d*   | Progression dependant item that may not be available on your server at the start of this raid tier. |
@@ -37,7 +38,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |               | *BiS*, *p/d* | [Diamond Flask](https://classicdb.ch/?item=20130)<br>&ensp;- Quest Reward: [Voodoo Feathers](https://classicdb.ch/?quest=8425)<br>&ensp;- *Note*: The Sunken Temple class quests may not be available at server launch. |
 |               | *h/o*, *s/g* |  [Rune of the Guard Captain](https://classicdb.ch/?item=19120)<br>&ensp; - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862) |
 | **Weapon**   | *BiS* | [Ironfoe](https://classicdb.ch/?item=11684)<br>&ensp;Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
-|              | *BiS-alt*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction house. |
+|              | *BiS*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction house. |
 |              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384) |
 | **Shield**   | *BiS* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 
