@@ -13,8 +13,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 - *a/o* - Alliance Only.
 - Some items will have notes attached that don't fall into one of the categories above.
 
-### Pre-raid
 
+<details><summary>Pre-Raid</summary>
 #### Tanking
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
@@ -52,6 +52,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Trinket**   |
 | **Weapon**    |
 | **Shield**    |
+</details>
 
 - Head
 - Neck
@@ -109,7 +110,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 ### Tier 1 (MC/Ony/DM)
 
-<! -- #### TABLE TEMPLATE
+#### TABLE TEMPLATE
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -125,4 +126,4 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Rings**     |
 | **Trinket**   |
 | **Weapon**    |
-| **Shield**    | -->
+| **Shield**    |
