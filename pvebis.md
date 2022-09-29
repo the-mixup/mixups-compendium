@@ -20,11 +20,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-<p align="center">
-
-#### TANKING
-
-</p>
+<h3 align="center">TANKING</h1>
 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
