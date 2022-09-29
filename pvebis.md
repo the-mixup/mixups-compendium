@@ -62,7 +62,10 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Boots**     |
 | **Rings**     | *BiS*, *p/d* | [Don Julio's Band](https://classicdb.ch/?item=19325)<br>&ensp;- AV Exalted reward, may not be available early on |
 |               | *BiS* | [Painweaver Band](https://classicdb.ch/?item=13098)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
-| **Trinket**   |
+| **Trinket**   | *BiS* | [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
+|               | *BiS* | [Hand of Justice](https://classicdb.ch/?item=11815)<br>&ensp;- Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
+|               | *BiS*, *p/d* | [Diamond Flask](https://classicdb.ch/?item=20130)<br>&ensp;- Quest Reward: [Voodoo Feathers](https://classicdb.ch/?quest=8425)<br>&ensp;- *Note*: The Sunken Temple class quests may not be available at server launch. |
+|               | *h/o*, *s/g* |  [Rune of the Guard Captain](https://classicdb.ch/?item=19120)<br>&ensp; - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862) |
 | **Weapon**    | *BiS*, *For Human* | [Ironfoe](https://classicdb.ch/?item=11684)<br>&ensp;Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
 | **Shield**    |
 
