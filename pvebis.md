@@ -3,6 +3,8 @@
 Your BIS items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are palying on. Within each tier we will keep that information in mind and provide multiple options for vertain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual BiS piece.
 
 ### Notes Key
+
+| Key | Meaning |
 | ------- | ---------------------|
 | *BiS*   | Indicates your optimal BiS piece. |
 | *s/g*   | Indicates a *stopgap* piece that is easier to obtain and will hold you over until you get your BiS. |
