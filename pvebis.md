@@ -20,7 +20,12 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-### Tanking
+<p align="center">
+
+#### TANKING
+
+</p>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -42,7 +47,12 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384) |
 | **Shield**   | *BiS* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 
+<p align="center">
+
 #### DPS
+
+</p>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. |
@@ -113,7 +123,12 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-#### TANKING
+<p align="center">
+
+#### Tanking
+
+</p>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -131,7 +146,12 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Weapon**    |
 | **Shield**    |
 
+<p align="center">
+
 #### DPS
+
+</p>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
