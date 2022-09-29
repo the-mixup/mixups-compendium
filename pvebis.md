@@ -2,17 +2,14 @@
 
 Your BIS items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are palying on. Within each tier we will keep that information in mind and provide multiple options for vertain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual BiS piece.
 
-### Key
-
-- *BiS* - indicates your optimal BiS piece
-- *BiS-alt* - indicates alternate BiS pieces which may be roughly equal in strength or have different niches.
-- *s/g* - indicates a *stopgap* piece that is easier to obtain and will hold you over until you get your BiS.
-- *p/d* - Progression dependant item that may not be available on your server at the start of this raid tier.
-- *p/a* - Progressive itemization alternative, if the BiS item is not yet available.
-- *h/o* - Horde Only.
-- *a/o* - Alliance Only.
-- Some items will have notes attached that don't fall into one of the categories above.
-
+### Notes Key
+| *BiS*   | Indicates your optimal BiS piece. |
+| *s/g*   | Indicates a *stopgap* piece that is easier to obtain and will hold you over until you get your BiS. |
+| *p/d*   | Progression dependant item that may not be available on your server at the start of this raid tier. |
+| *p/a*   | Progressive itemization alternative, if the BiS item is not yet available. |
+| *h/o*   | Horde Only. |
+| *a/o*   | Alliance Only.|
+| *Note:* | Some items will have notes attached that don't fall into one of the categories above. |
 
 <details><summary>
 
@@ -49,14 +46,16 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. |
+|               | *s/g* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) |
 | **Neck**      | *BiS* | [Mark of Fordring](https://classicdb.ch/?item=15411)<br>&ensp;- Quest Reward: [In Dreams](https://classicdb.ch/?quest=5944) |
 | **Shoulders** | *BiS* | [Truestrike Shoulders](https://classicdb.ch/?item=12927)<br>&ensp;- Dungeon Drop: [Pyroguard Emberseer in UBRS](https://classicdb.ch/?npc=9816)<br>&ensp;- *Note*: This piece is HIGHLY contested, you might be better off going for a stopgap piece ASAP |
-| **Cloak**     |
-| **Chest**     |
+|               | *s/g* | [Wyrmhide Spaulders](https://classicdb.ch/?item=13340)<br>&ensp;- Quest Reward: [A Taste of Flame](https://classicdb.ch/?quest=4024) |
+| **Cloak**     | *BiS* | [Cape of the Black Baron](https://classicdb.ch/?item=13340)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340) |
+| **Chest**     | *BiS* | [Cadaverous Armor](https://classicdb.ch/?item=14637)<br>&ensp;- Dungeon Drop: various Scholomance bosses |
 | **Bracers**   |
-| **Gloves**    |
+| **Gloves**    | *BiS* | [Devilsaur Gauntlets](https://classicdb.ch/?item=15063)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Gauntlets](https://classicdb.ch/?item=15758)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
 | **Belt**      |
-| **Pants**     |
+| **Pants**     | *BiS* | [Devilsaur Leggings](https://classicdb.ch/?item=15062)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Leggings](https://classicdb.ch/?item=15772)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
 | **Boots**     |
 | **Rings**     | *BiS*, *p/d* | [Don Julio's Band](https://classicdb.ch/?item=19325)<br>&ensp;- AV Exalted reward, may not be available early on |
 |               | *BiS* | [Painweaver Band](https://classicdb.ch/?item=13098)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
@@ -96,7 +95,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
-| **Neck**      |
+| **Neck**      | *BiS* | [Onyxia Tooth Pendant](https://classicdb.ch/?item=18404)<br>&ensp;- *a/o* Quest Reward: [Celebrating Good Times](https://classicdb.ch/?quest=7496)<br>&ensp;- *h/o* Quest Reward: [For All To See](https://classicdb.ch/?quest=7491) | 
 | **Shoulders** |
 | **Cloak**     |
 | **Chest**     |
