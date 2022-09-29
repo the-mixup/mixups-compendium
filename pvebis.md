@@ -54,7 +54,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Cloak**     | *BiS* | [Cape of the Black Baron](https://classicdb.ch/?item=13340)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340) |
 | **Chest**     | *BiS*, *p/d* | [Savage Gladiator Chain](https://classicdb.ch/?item=11726-8)<br>&ensp;- Dungeon Drop: [Gorosh the Dervish in BRD Arena](https://classicdb.ch/?npc=9027);<br>&ensp;- *Note*: This item got patched twice in 1.7 and 1.10. The 1.10 version of this item, if available, is *very* good. 1.2 and 1.7 versions are worse than the stopgaps suggested below. |
 |               | *BiS*, *p/a* | [Cadaverous Armor](https://classicdb.ch/?item=14637)<br>&ensp;- Dungeon Drop: various Scholomance bosses |
-|               | *BiS*, *p/a* | [Deathdealer Breastplate](https://classicdb.ch/?item=11926)<br>&ensp;- Dungeon Drop:
+|               | *BiS*, *p/a* | [Deathdealer Breastplate](https://classicdb.ch/?item=11926)<br>&ensp;- Dungeon Drop: [Chest of the Seven event in BRD](https://classicdb.ch/?object=169243) |
 | **Bracers**   |
 | **Gloves**    | *BiS* | [Devilsaur Gauntlets](https://classicdb.ch/?item=15063)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Gauntlets](https://classicdb.ch/?item=15758)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
 | **Belt**      | *BiS* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
