@@ -28,7 +28,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Chest**     |
 | **Bracers**   |
 | **Gloves**    |
-| **Belt**      |
+| **Belt**      | *BiS* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
 | **Pants**     |
 | **Boots**     |
 | **Rings**     |
@@ -37,7 +37,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |               | *BiS*, *p/d* | [Diamond Flask](https://classicdb.ch/?item=20130)<br>&ensp;- Quest Reward: [Voodoo Feathers](https://classicdb.ch/?quest=8425)<br>&ensp;- *Note*: The Sunken Temple class quests may not be available at server launch. |
 |               | *h/o*, *s/g* |  [Rune of the Guard Captain](https://classicdb.ch/?item=19120)<br>&ensp; - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862) |
 | **Weapon**   | *BiS* | [Ironfoe](https://classicdb.ch/?item=11684)<br>&ensp;Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
-|              | *BiS-alt*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction. |
+|              | *BiS-alt*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction house. |
 |              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384) |
 | **Shield**   | *BiS* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 
@@ -46,15 +46,18 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. |
+|               | *s/g* | [Eye of Rend](https://classicdb.ch/?item=12587)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
 |               | *s/g* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) |
 | **Neck**      | *BiS* | [Mark of Fordring](https://classicdb.ch/?item=15411)<br>&ensp;- Quest Reward: [In Dreams](https://classicdb.ch/?quest=5944) |
 | **Shoulders** | *BiS* | [Truestrike Shoulders](https://classicdb.ch/?item=12927)<br>&ensp;- Dungeon Drop: [Pyroguard Emberseer in UBRS](https://classicdb.ch/?npc=9816)<br>&ensp;- *Note*: This piece is HIGHLY contested, you might be better off going for a stopgap piece ASAP |
 |               | *s/g* | [Wyrmhide Spaulders](https://classicdb.ch/?item=13340)<br>&ensp;- Quest Reward: [A Taste of Flame](https://classicdb.ch/?quest=4024) |
 | **Cloak**     | *BiS* | [Cape of the Black Baron](https://classicdb.ch/?item=13340)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340) |
-| **Chest**     | *BiS* | [Cadaverous Armor](https://classicdb.ch/?item=14637)<br>&ensp;- Dungeon Drop: various Scholomance bosses |
+| **Chest**     | *BiS*, *p/d* | [Savage Gladiator Chain](https://classicdb.ch/?item=11726-8)<br>&ensp;- Dungeon Drop: [Gorosh the Dervish in BRD Arena](https://classicdb.ch/?npc=9027);<br>&ensp;- *Note*: This item got patched twice in 1.7 and 1.10. The 1.10 version of this item, if available, is *very* good. 1.2 and 1.7 versions are worse than the stopgaps suggested below. |
+|               | *BiS*, *p/a* | [Cadaverous Armor](https://classicdb.ch/?item=14637)<br>&ensp;- Dungeon Drop: various Scholomance bosses |
+|               | *BiS*, *p/a* | [Deathdealer Breastplate](https://classicdb.ch/?item=11926)<br>&ensp;- Dungeon Drop:
 | **Bracers**   |
 | **Gloves**    | *BiS* | [Devilsaur Gauntlets](https://classicdb.ch/?item=15063)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Gauntlets](https://classicdb.ch/?item=15758)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
-| **Belt**      |
+| **Belt**      | *BiS* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
 | **Pants**     | *BiS* | [Devilsaur Leggings](https://classicdb.ch/?item=15062)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Leggings](https://classicdb.ch/?item=15772)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
 | **Boots**     |
 | **Rings**     | *BiS*, *p/d* | [Don Julio's Band](https://classicdb.ch/?item=19325)<br>&ensp;- AV Exalted reward, may not be available early on |
