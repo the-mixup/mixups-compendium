@@ -15,7 +15,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 
 <details><summary>Pre-Raid</summary>
-#### Tanking
+
+### Tanking
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
