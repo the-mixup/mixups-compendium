@@ -11,6 +11,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 - *p/a* - Progressive itemization alternative, if the BiS item is not yet available.
 - *h/o* - Horde Only.
 - *a/o* - Alliance Only.
+- Some items will have notes attached that don't fall into one of the categories above.
 
 ### Pre-raid
 
@@ -34,5 +35,99 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
         - Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019)
     - *h/o*,*s/g* [Rune of the Guard Captain](https://classicdb.ch/?item=19120)
         - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862)
-
+- **Weapons**
+    - *BiS* [Ironfoe](https://classicdb.ch/?item=11684)
+        - Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019)
+    - *s/g*,*Best for Human* [Mirah's Song](https://classicdb.ch/?item=15806)
+        - Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384)
+- Shield
+    - *BiS* [Draconian Deflector](https://classicdb.ch/?item=12602)
+        - Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363)
 #### DPS
+- Head
+- Neck
+    - *BiS* [Mark of Fordring](https://classicdb.ch/?item=15411)
+        - Quest Reward: [In Dreams](https://classicdb.ch/?quest=5944)
+- Shoulders
+    - *BiS* [Truestrike Shoulders](https://classicdb.ch/?item=12927)
+        - Dungeon Drop: [Pyroguard Emberseer in UBRS](https://classicdb.ch/?npc=9816)
+        - *Note*: This piece is HIGHLY contested, you might be better off going for a stopgap piece ASAP
+    - *s/g* 
+- Cloak
+- Chest
+- Bracers
+- Gloves
+- Belt
+- Pants
+- Boots
+- Rings
+    - *BiS*,*p/d* [Don Julio's Band](https://classicdb.ch/?item=19325)
+        - AV Exalted reward, may not be available early on
+    - *BiS* [Painweaver Band](https://classicdb.ch/?item=13098)
+        - Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363)
+- Trinket
+- Weapons
+    - *BiS* [Ironfoe](https://classicdb.ch/?item=11684)
+        - Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019)
+
+### Tier 1 (MC/Ony/DM)
+
+#### TANK
+- Head
+- Neck
+- Shoulders
+- Cloak
+- Chest
+- Bracers
+- Gloves
+- Belt
+- Pants
+- Boots
+- Rings
+- Trinket
+- Weapons
+- Shield
+#### DPS
+- Head
+- Neck
+- Shoulders
+- Cloak
+- Chest
+- Bracers
+- Gloves
+- Belt
+- Pants
+- Boots
+- Rings
+- Trinket
+- Weapons
+
+#### TANK
+- Head
+- Neck
+- Shoulders
+- Cloak
+- Chest
+- Bracers
+- Gloves
+- Belt
+- Pants
+- Boots
+- Rings
+- Trinket
+- Weapons
+- Shield
+#### DPS
+- Head
+- Neck
+- Shoulders
+- Cloak
+- Chest
+- Bracers
+- Gloves
+- Belt
+- Pants
+- Boots
+- Rings
+- Trinket
+- Weapons
