@@ -16,22 +16,22 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 ### Pre-raid
 
 #### Tanking
-| Gear Slot | Notes | Item |
-| --------- | ----- | ---- |
-| Head      |
-| Neck      |
-| Shoulders |
-| Cloak     |
-| Chest     |
-| Bracers   |
-| Gloves    |
-| Belt      |
-| Pants     |
-| Boots     |
-| Rings     |
-| Trinket   | *BiS* | [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
-|           | *BiS* | [Hand of Justice](https://classicdb.ch/?item=11815)<br>&ensp;- Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
-        
+|   Gear Slot   | Notes | Item |
+| ------------- | ----- | ---- |
+| **Head**      |
+| **Neck**      |
+| **Shoulders** |
+| **Cloak**     |
+| **Chest**     |
+| **Bracers**   |
+| **Gloves**    |
+| **Belt**      |
+| **Pants**     |
+| **Boots**     |
+| **Rings**     |
+| **Trinket**   | *BiS* | [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
+|               | *BiS* | [Hand of Justice](https://classicdb.ch/?item=11815)<br>&ensp;- Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
+|               | *h/o*, *s/g* |  [Rune of the Guard Captain](https://classicdb.ch/?item=19120)<br>&ensp; - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862) |
 
 - Head
 - Neck
