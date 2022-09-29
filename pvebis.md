@@ -37,6 +37,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Rings**     |
 | **Trinket**   | *BiS* | [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
 |               | *BiS* | [Hand of Justice](https://classicdb.ch/?item=11815)<br>&ensp;- Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
+|               | *BiS*, *p/d* | [Diamond Flask](https://classicdb.ch/?item=20130)<br>&ensp;- Quest Reward: [Voodoo Feathers](https://classicdb.ch/?quest=8425)<br>&ensp;- *Note*: The Sunken Temple class quests may not be available at server launch. |
 |               | *h/o*, *s/g* |  [Rune of the Guard Captain](https://classicdb.ch/?item=19120)<br>&ensp; - Quest Reward: [Job Opening: Guard Captain of Revantusk Village](https://classicdb.ch/?quest=7862) |
 | **Weapon**   | *BiS* | [Ironfoe](https://classicdb.ch/?item=11684)<br>&ensp;Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
 |              | *BiS-alt*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction. |
