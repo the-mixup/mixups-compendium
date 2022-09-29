@@ -69,7 +69,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-#### TABLE TEMPLATE
+#### TANKING
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -87,6 +87,24 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Weapon**    |
 | **Shield**    |
 
+#### DPS
+|   Gear Slot   | Notes | Item |
+| ------------- | ----- | ---- |
+| **Head**      |
+| **Neck**      |
+| **Shoulders** |
+| **Cloak**     |
+| **Chest**     |
+| **Bracers**   |
+| **Gloves**    |
+| **Belt**      | *BiS* | [Onslaught Girdle](https://classicdb.ch/?item=19137)<br>&ensp;- Dungeon Drop [Ragnaros](https://classicdb.ch/?npc=11502)<br>&ensp;- *Note*: This belt is BiS until Naxx, prioritize it highly. |
+| **Pants**     |
+| **Boots**     |
+| **Rings**     |
+| **Trinket**   |
+| **Weapon**    |
+| **Shield**    |
+
 </details>
 
 <details><summary>
@@ -95,7 +113,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-#### TABLE TEMPLATE
+#### TANKING
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
