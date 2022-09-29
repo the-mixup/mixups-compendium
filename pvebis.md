@@ -16,6 +16,24 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 ### Pre-raid
 
 #### Tanking
+| Gear Slot | Notes | Item |
+| --------- | ----- | ---- |
+| Head      |
+| Neck      |
+| Shoulders |
+| Cloak     |
+| Chest     |
+| Bracers   |
+| Gloves    |
+| Belt      |
+| Pants     |
+| Boots     |
+| Rings     |
+| Trinket   | *BiS* | - [Blackhand's Breadth](https://classicdb.ch/?item=13965)
+|           |       |   - *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)
+|           |       |   - *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974)
+|           |
+
 - Head
 - Neck
 - Shoulders
