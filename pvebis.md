@@ -43,11 +43,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384) |
 | **Shield**   | *BiS* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 
-<p align="center">
-
-#### DPS
-
-</p>
+<h3 align="center">DPS</h1>
 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
@@ -75,7 +71,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-#### TANKING
+<h3 align="center">TANKING</h1>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -93,7 +90,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Weapon**    |
 | **Shield**    |
 
-#### DPS
+<h3 align="center">DPS</h1>
+
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
 | **Head**      |
@@ -119,11 +117,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 </summary>
 
-<p align="center">
-
-#### Tanking
-
-</p>
+<h3 align="center">TANKING</h1>
 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
@@ -142,11 +136,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 | **Weapon**    |
 | **Shield**    |
 
-<p align="center">
-
-#### DPS
-
-</p>
+<h3 align="center">DPS</h1>
 
 |   Gear Slot   | Notes | Item |
 | ------------- | ----- | ---- |
