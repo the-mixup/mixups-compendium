@@ -4,7 +4,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 ### Notes Key
 
-| Key | Meaning |
+| Key     | Meaning |
 | ------- | ---------------------|
 | *BiS*   | Indicates your optimal BiS piece. |
 | *s/g*   | Indicates a *stopgap* piece that is easier to obtain and will hold you over until you get your BiS. |
@@ -60,6 +60,7 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 |               | *BiS*, *p/a* | [Deathdealer Breastplate](https://classicdb.ch/?item=11926)<br>&ensp;- Dungeon Drop: [Chest of the Seven event in BRD](https://classicdb.ch/?object=169243) |
 | **Bracers**   |
 | **Gloves**    | *BiS* | [Devilsaur Gauntlets](https://classicdb.ch/?item=15063)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Gauntlets](https://classicdb.ch/?item=15758)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
+|               | *BiS* | [Edgemaster's Handguards]()<br>&ensp;- World Drop from mobs level 44-52<br>&ensp;- *Note*: These are going to BiS for non-Orc, non-Human warriors for as long as they don't have another way to achieve 305+ weapon skill. These will be very expensive and rare early on. |
 | **Belt**      | *BiS* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
 | **Pants**     | *BiS* | [Devilsaur Leggings](https://classicdb.ch/?item=15062)<br>&ensp;- Leathworking crafted by [Pattern: Devilsaur Leggings](https://classicdb.ch/?item=15772)<br>&ensp;- *Note*: The pieces and set bonus from Devilsaur is *very* good and you likely won't break your set bonus for quite a while. These are a high priority piece for gold expenditure early on. |
 | **Boots**     |
