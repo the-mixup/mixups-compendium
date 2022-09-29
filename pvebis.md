@@ -22,8 +22,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">TANKING</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
@@ -46,8 +46,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">DPS</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      | *BiS* | [Lionheart Helm](https://classicdb.ch/?item=12640)<br>&ensp;- Blacksmithing crafted from [Plans: Lionheart Helm](https://classicdb.ch/?item=12717)<br>&ensp;- *Note*: This is going to be very expensive to get early on but it is BiS through the entire game so it's high priority for gold expenditure. You may also need to wait for the plans to drop on your server before this item is available. |
 |               | *s/g* | [Eye of Rend](https://classicdb.ch/?item=12587)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
 |               | *s/g* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) |
@@ -83,8 +83,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">TANKING</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
@@ -102,8 +102,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">DPS</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      | *BiS* | [Onyxia Tooth Pendant](https://classicdb.ch/?item=18404)<br>&ensp;- *a/o* Quest Reward: [Celebrating Good Times](https://classicdb.ch/?quest=7496)<br>&ensp;- *h/o* Quest Reward: [For All To See](https://classicdb.ch/?quest=7491) | 
 | **Shoulders** |
@@ -129,8 +129,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">TANKING</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
@@ -148,8 +148,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 
 <h3 align="center">DPS</h1>
 
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
@@ -174,8 +174,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 </summary>
 
 #### TABLE TEMPLATE
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
@@ -200,8 +200,8 @@ Your BIS items in each raid tier (and especially pre-raid) are highly dependant 
 </summary>
 
 #### TABLE TEMPLATE
-|   Gear Slot   | Notes | Item |
-| ------------- | ----- | ---- |
+|   Gear Slot   | Notes | Item | Enchant |
+| ------------- | ----- | ---- | ------- |
 | **Head**      |
 | **Neck**      |
 | **Shoulders** |
