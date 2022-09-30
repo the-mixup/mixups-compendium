@@ -1,6 +1,6 @@
 ## bis Lists by Raid Tier
 
-Your bis items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are palying on. Within each tier we will keep that information in mind and provide multiple options for vertain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual bis piece.
+Your bis items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are playing on. Within each tier we will keep that information in mind and provide multiple options for certain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual bis piece.
 
 ### Notes Key
 
@@ -24,10 +24,10 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 
 |   Gear Slot   | Notes | Item | Enchant |
 | ------------- | ----- | ---- | ------- |
-| **Head**      |
-| **Neck**      |
-| **Shoulders** |
-| **Cloak**     |
+| **Head**      | *bis* | [Helm fo the Executioner](https://classicdb.ch/?item=22411)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340) |
+| **Neck**      | *bis* | [Will of the Martyr](https://classicdb.ch/?item=17044)<br>&ensp;- Quest Reward: [Aurius' Reckoning](https://classicdb.ch/?quest=5125) |
+| **Shoulders** | *bis* | [Spaulders of Valor](https://classicdb.ch/?item=16733)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
+| **Cloak**     | *bis* | [Stoneskin Gargoyle Cape](https://classicdb.ch/?item=13397)<br>&ensp;- Dungeon Drop: [Stonespine, Rare Spawn in UD Strat](https://classicdb.ch/?npc=10809) |
 | **Chest**     |
 | **Bracers**   |
 | **Gloves**    |
