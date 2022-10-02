@@ -28,9 +28,9 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 | **Neck**      | *bis* | [Will of the Martyr](https://classicdb.ch/?item=17044)<br>&ensp;- Quest Reward: [Aurius' Reckoning](https://classicdb.ch/?quest=5125) |
 | **Shoulders** | *bis* | [Spaulders of Valor](https://classicdb.ch/?item=16733)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
 | **Cloak**     | *bis* | [Stoneskin Gargoyle Cape](https://classicdb.ch/?item=13397)<br>&ensp;- Dungeon Drop: [Stonespine, Rare Spawn in UD Strat](https://classicdb.ch/?npc=10809) |
-| **Chest**     |
-| **Bracers**   |
-| **Gloves**    |
+| **Chest**     | *bis* | [Breastplate of Valor](https://classicdb.ch/?item=16730)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
+| **Bracers**   | *bis* | [Bracers of Valor](https://classicdb.ch/?item=16735)<br>&ensp;- Dungeon Drop: Trash mobs in Blackrock Spire
+| **Gloves**    | *bis* | 
 | **Belt**      | *bis* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
 | **Pants**     |
 | **Boots**     |
