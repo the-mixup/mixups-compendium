@@ -44,7 +44,7 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 |              | *u* | [Mark of the Chosen](https://classicdb.ch/?item=17774)<br>&ensp;- Quest Reward: [The Pariah's Instructions](https://classicdb.ch/?quest=7067)<br>&ensp;- Potentially valuable on trash packs while tanking multiple mobs |
 | **Weapon**   | *bis* | [Ironfoe](https://classicdb.ch/?item=11684)<br>&ensp;Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
 |              | *bis*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction house. |
-|              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384) |
+|              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384)<br>&ensp;- Best stopgap option for human. |
 | **Shield**   | *bis* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 
 <h3 align="center">DPS</h1>
