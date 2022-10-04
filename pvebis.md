@@ -15,20 +15,6 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 | *u*     | A utility item that is situationally valuable. |
 | *Note:* | Some items will have notes attached that don't fall into one of the categories above. |
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://wowclassicdb.com/tooltip.min.css">
-
-<script>const wowdbTooltipConfig = { colorLinks: true, renameLinks: true }</script>
-
-<script src="https://wowclassicdb.com/tooltip.js"></script>
-
-<a href="https://classicdb.ch/?item=13340"
-   data-wowdb-rename-link="false"
-   data-wowdb-color-link="true"
-   data-wowdb-iconize-link="true"
-   data-wowdb-icon-size="large">Baron Rivendare</a>
-
 <details><summary>
 
 ### Pre-Raid
