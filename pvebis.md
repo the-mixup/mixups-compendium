@@ -12,7 +12,7 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 | *p/a*   | Progressive itemization alternative, if the bis item is not yet available. |
 | *h/o*   | Horde Only. |
 | *a/o*   | Alliance Only.|
-| *u*     | A utility item, situationally valuable |
+| *u*     | A utility item that is situationally valuable. |
 | *Note:* | Some items will have notes attached that don't fall into one of the categories above. |
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -28,7 +28,7 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
    data-wowdb-color-link="true"
    data-wowdb-iconize-link="true"
    data-wowdb-icon-size="large">Baron Rivendare</a>
-   
+
 <details><summary>
 
 ### Pre-Raid
@@ -39,18 +39,20 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 
 |   Gear Slot   | Notes | Item | Enchant |
 | ------------- | ----- | ---- | ------- |
-| **Head**      | *bis* | [Helm fo the Executioner](https://classicdb.ch/?item=22411)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340) |
+| **Head**      | *bis* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) |
+|               | *bis*, *p/d* | [Helm of the Executioner](https://classicdb.ch/?item=22411)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340)<br>&ensp;- *Note:* Not available until 1.10 when t0.5 questline is added. |
 | **Neck**      | *bis* | [Will of the Martyr](https://classicdb.ch/?item=17044)<br>&ensp;- Quest Reward: [Aurius' Reckoning](https://classicdb.ch/?quest=5125) |
+|               | *bis*, *p/d* | [Beads of Ogre Might](https://classicdb.ch/?item=22150)<br>&ensp;- Quest Reward: [Falrin's Vendetta](https://classicdb.ch/?quest=8949)<br>&ensp;- *Note*: Not available until DM releases in patch 1.3. |
 | **Shoulders** | *bis* | [Spaulders of Valor](https://classicdb.ch/?item=16733)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
 | **Cloak**     | *bis* | [Stoneskin Gargoyle Cape](https://classicdb.ch/?item=13397)<br>&ensp;- Dungeon Drop: [Stonespine, Rare Spawn in UD Strat](https://classicdb.ch/?npc=10809) |
 | **Chest**     | *bis* | [Breastplate of Valor](https://classicdb.ch/?item=16730)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 | **Bracers**   | *bis* | [Bracers of Valor](https://classicdb.ch/?item=16735)<br>&ensp;- Dungeon Drop: Trash mobs in Blackrock Spire |
 |               | *bis* | [Battleborn Armbraces](https://classicdb.ch/?item=12936)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
-| **Gloves**    | *bis* | 
-| **Belt**      | *bis* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
+| **Gloves**    | *bis* | [Voone's Vice Grips]()<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
+| **Belt**      | 
 | **Pants**     |
 | **Boots**     |
-| **Rings**     |
+| **Rings**     | *bis* | [Blackstone Ring](https://classicdb.ch/?item=17713)<br>&ensp;- Dungeon Drop: [Princess Theradras in Maraudon](https://classicdb.ch/?npc=12201) |
 | **Trinket**   | *bis* | [Blackhand's Breadth](https://classicdb.ch/?item=13965)<br>&ensp;- *a/o* Quest Reward: [General Drakkisath's Demise](https://classicdb.ch/?quest=5102)<br>&ensp;- *h/o* Quest Reward: [For the Horde!](https://classicdb.ch/?quest=4974) |
 |               | *bis* | [Hand of Justice](https://classicdb.ch/?item=11815)<br>&ensp;- Dungeon Drop: [Emperor Dagran Thaurissan in BRD](https://classicdb.ch/?npc=9019) |
 |               | *bis*, *p/d* | [Diamond Flask](https://classicdb.ch/?item=20130)<br>&ensp;- Quest Reward: [Voodoo Feathers](https://classicdb.ch/?quest=8425)<br>&ensp;- *Note*: The Sunken Temple class quests may not be available at server launch. |
@@ -60,6 +62,7 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 |              | *bis*, *p/d* | [Alcor's Sunrazor](https://classicdb.ch/?item=14555-7)<br>&ensp;- World Drop from lvl 58+ elites<br>&ensp;- *Note*: The 1.2 Version of this dagger is BoP, greatly reducing your ability to get it. The 1.9 Version is BoE and can be bought on the auction house. |
 |              | *s/g* | [Mirah's Song](https://classicdb.ch/?item=15806)<br>&ensp;- Quest Reward: [Kirtonos the Herald](https://classicdb.ch/?quest=5384)<br>&ensp;- Best stopgap option for human. |
 | **Shield**   | *bis* | [Draconian Deflector](https://classicdb.ch/?item=12602)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
+| **Ranged**   | *bis* | [Blackcrow](https://classicdb.ch/?item=12651)<br>&ensp;- Dungeon Drop: [Shadow Hunter Vosh'gajin in LBRS](https://classicdb.ch/?npc=9236) |
 
 <h3 align="center">DPS</h1>
 
