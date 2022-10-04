@@ -34,8 +34,9 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 | **Chest**     | *bis* | [Breastplate of Valor](https://classicdb.ch/?item=16730)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363) |
 | **Bracers**   | *bis* | [Bracers of Valor](https://classicdb.ch/?item=16735)<br>&ensp;- Dungeon Drop: Trash mobs in Blackrock Spire |
 |               | *bis* | [Battleborn Armbraces](https://classicdb.ch/?item=12936)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
-| **Gloves**    | *bis* | [Voone's Vice Grips]()<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
-| **Belt**      | 
+| **Gloves**    | *bis* | [Voone's Vice Grips](https://classicdb.ch/?item=13963)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903) |
+| **Belt**      | *bis* | [Brigam Girdle](https://classicdb.ch/?item=13142-0)<br>&ensp;- Dungeon Drop: [General Drakkisath in UBRS](https://classicdb.ch/?npc=10363)<br>&ensp;- *Note*: This belt gets *alot* better in patch 1.10 when the Spirit is removed and Hit% is added. Regardless this is still one of the best balanced pre-raid tanking belts even in 1.2 if you can get hitcapped. |
+|               | *bis* | [Omokk's Girth Restrainer](https://classicdb.ch/?item=13959)<br>&ensp;- *a/o* Quest Reward: [Maxwell's Mission](https://classicdb.ch/?quest=5081)<br>&ensp;- *h/o* Quest Reward: [Warlord's Command](https://classicdb.ch/?quest=4903)<br>&ensp;- *Note*: If you can get hitcapped without [Voone's Vice Grips](https://classicdb.ch/?item=13963), this belt is great. |
 | **Pants**     |
 | **Boots**     |
 | **Rings**     | *bis* | [Blackstone Ring](https://classicdb.ch/?item=17713)<br>&ensp;- Dungeon Drop: [Princess Theradras in Maraudon](https://classicdb.ch/?npc=12201) |
