@@ -26,7 +26,7 @@ Your bis items in each raid tier (and especially pre-raid) are highly dependant 
 |   Gear Slot   | Notes | Item | Enchant |
 | ------------- | ----- | ---- | ------- |
 | **Head**      | *bis* | [Mask of the Unforgiven](https://classicdb.ch/?item=13404)<br>&ensp;- Dungeon Drop: [The Unforgiven in Strat Living](https://classicdb.ch/?npc=10516) | [Lesser Arcanum of Voracity (Str)](https://classicdb.ch/?item=11645) |
-|               | *bis*, *p/d* | [Helm of the Executioner](https://classicdb.ch/?item=22411)<br>&ensp;- Dungeon Drop: [Baron Rivendare](https://classicdb.ch/?item=13340)<br>&ensp;- *Note:* Not available until 1.10 when t0.5 questline is added. |
+|               | *bis*, *p/d* | [Helm of the Executioner](https://classicdb.ch/?item=22411)<br>&ensp;- Dungeon Drop: [Baron Rivendare in Strat UD (timed run)](https://classicdb.ch/?item=13340)<br>&ensp;- *Note:* Not available until 1.10 when t0.5 questline is added. |
 | **Neck**      | *bis* | [Will of the Martyr](https://classicdb.ch/?item=17044)<br>&ensp;- Quest Reward: [Aurius' Reckoning](https://classicdb.ch/?quest=5125) |
 |               | *bis*, *p/d* | [Beads of Ogre Might](https://classicdb.ch/?item=22150)<br>&ensp;- Quest Reward: [Falrin's Vendetta](https://classicdb.ch/?quest=8949)<br>&ensp;- *Note*: Not available until DM releases in patch 1.3. |
 | **Shoulders** | *bis* | [Spaulders of Valor](https://classicdb.ch/?item=16733)<br>&ensp;- Dungeon Drop: [Warchief Rend Blackhand in UBRS](https://classicdb.ch/?npc=10429) |
