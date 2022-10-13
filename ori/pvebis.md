@@ -1,6 +1,6 @@
 ## bis Lists by Raid Tier
 
-Your bis items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are playing on. Within each tier we will keep that information in mind and provide multiple options for certain gear slots to accommodate. There will also be non-optimal options listed that may be easier to obtain to get until you get your actual bis piece.
+Your bis items in each raid tier (and especially pre-raid) are highly dependant on the amount of gold you have to spend and on the patch progression of the server you are playing on. Within each tier we will keep that information in mind and provide multiple options for certain gear slots to accommodate. There will also be non-optimal stop-gap options listed that may be easier to obtain to get until you get your actual bis piece.
 
 ### Notes Key
 
