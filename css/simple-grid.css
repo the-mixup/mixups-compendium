@@ -27,6 +27,15 @@ th,td {
   font-style: italic;
 }
 
+.toc{
+  background-color: #D3D3D3;
+}
+
+.inactive-link {
+  pointer-events: none;
+  cursor: default;
+}
+
 html,
 body {
   height: 100%;

@@ -8,27 +8,29 @@
         <link href="css\simple-grid.css" rel="stylesheet">
         <link href="css\collapse.css" rel="stylesheet">
     </head>
-    <div class="row">
-        <div class="col-2" style="border-right: 1px black;">
-            <a href="pvebis.html">PvE BIS Lists</a><br>
-            <a href="#" style="color: gray;">Weapon Progression</a>
-        </div>
-        <div class="col-10">
-            <button class="collapsible"> Alliance </button>
-                <div class="content">
-                    <table>
+    <div class="container">
+        <div class="row">
+            <div class="col-2-sm toc center">
+                <a href="pvebis.html">PvE BIS Lists</a><br>
+                <a href="#" style="color: gray;" class="inactive-link">Weapon Progression</a><br>
+            </div>
+            <div class="col-10">
+                <button class="collapsible"> Alliance </button>
+                    <div class="content">
+                        <table>
+                            <tr>
+                                <th>Weapon</th><th>DPS</th><th>Level</th>
+                            </tr>
+                        </table>
+                    </div>
+
+                <button class="collapsible"> Horde </button>
+                    <div class="content">
                         <tr>
                             <th>Weapon</th><th>DPS</th><th>Level</th>
                         </tr>
-                    </table>
-                </div>
-
-            <button class="collapsible"> Horde </button>
-                <div class="content">
-                    <tr>
-                        <th>Weapon</th><th>DPS</th><th>Level</th>
-                    </tr>
-                </div>
+                    </div>
+            </div>
         </div>
     </div>
 
