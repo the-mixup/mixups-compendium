@@ -15,23 +15,44 @@
                 <a href="#" style="color: gray;" class="inactive-link">Weapon Progression</a><br>
             </div>
             <div class="col-10">
-                <button class="collapsible"> Alliance </button>
-                    <div class="content">
-                        <table>
-                            <tr>
-                                <th>Weapon</th><th>DPS</th><th>Level</th>
-                            </tr>
-                        </table>
-                    </div>
+                <div class="row main">
+                    <button class="collapsible"> Alliance </button>
+                        <div class="content">
+                            <table>
+                                <tr>
+                                    <th>Weapon</th><th>DPS</th><th>Level</th><th>Source</th>
+                                </tr>
+                            </table>
+                        </div>
 
-                <button class="collapsible"> Horde </button>
-                    <div class="content">
-                        <tr>
-                            <th>Weapon</th><th>DPS</th><th>Level</th>
-                        </tr>
-                    </div>
+                    <button class="collapsible"> Horde </button>
+                        <div class="content">
+                            <table>
+                                <tr>
+                                    <th>Weapon</th><th>DPS</th><th>Level</th><th>Source</th>
+                                </tr>
+                            </table>
+                        </div>
+                </div>
             </div>
         </div>
     </div>
 
 </html>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        } 
+      });
+    }
+</script>
